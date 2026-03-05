@@ -6,13 +6,13 @@ public class Solution {
       Console.WriteLine ("Enter the name");
       String str = Console.ReadLine ();
 
-      String reversed = "";
+      String reverse = "";
 
       for (int i = str.Length - 1; i >= 0; i--) {
-         reversed += str[i];
+         reverse += str[i];
       }
 
-      Console.WriteLine ("Reversed string : " + reversed);
+      Console.WriteLine ("Reversedstring : " + reverse);
       Console.ReadLine ();
    }
 
