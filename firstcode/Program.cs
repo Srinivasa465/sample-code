@@ -13,7 +13,8 @@ public class Solution {
       }
 
       Console.WriteLine ("Reversed string : " + reversed);
+      Console.ReadLine ();
    }
 
-
+  
 }
