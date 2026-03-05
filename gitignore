@@ -10,3 +10,5 @@ launchsettings.json
 *.chm
 *.csproj.user
 *.suo
+**/obj/
+**/bin/
