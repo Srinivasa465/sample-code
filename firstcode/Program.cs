@@ -3,7 +3,7 @@ public class Solution {
    public static void Main (String[] args) {
 
 
-      Console.WriteLine ("Enter the name");
+      Console.WriteLine ("Enter the name to reverse");
       String str = Console.ReadLine ();
 
       String reverse = "";
